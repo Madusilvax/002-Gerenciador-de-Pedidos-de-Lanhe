@@ -1,0 +1,23 @@
+{
+  "name": "002-gerenciador-de-pedidos-de-lanhe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madusilvax/002-Gerenciador-de-Pedidos-de-Lanhe.git"
+  },
+  "keywords": [],
+  "author": "Maria Eduarda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madusilvax/002-Gerenciador-de-Pedidos-de-Lanhe/issues"
+  },
+  "homepage": "https://github.com/Madusilvax/002-Gerenciador-de-Pedidos-de-Lanhe#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
